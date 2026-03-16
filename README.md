@@ -9,3 +9,7 @@ I recreated the iconic headphones worn by Megurine Luka on the cover of the song
 
 <p align="center">
 In this repository, you will find my documentation of the process, a video demonstrating the final product, and the code.
+
+<p align="center">
+  <img src="https://github.com/hjsilka/Vocaloid-Headphones/blob/cf426d5c63e28ec661f29983182f7964796b677e/Images/_%20(3).jpeg" />
+</p>
