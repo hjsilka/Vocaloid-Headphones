@@ -13,3 +13,5 @@ In this repository, you will find my documentation of the process, a video demon
 <p align="center">
   <img src="https://github.com/hjsilka/Vocaloid-Headphones/blob/cf426d5c63e28ec661f29983182f7964796b677e/Images/_%20(3).jpeg" />
 </p>
+
+![image alt](https://github.com/hjsilka/Vocaloid_Headphones/blob/f21d890333185cf5b8531e167d01ba8d2a48641e/born%20to%20dilly%20daily%20forced%20to%20lock%20in.jpeg)
